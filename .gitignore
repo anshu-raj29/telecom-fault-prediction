@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated local caches
+.pytest_cache/
+.mypy_cache/
+
+# Keep trained artifacts intentional. Remove these lines only if model files become too large.
