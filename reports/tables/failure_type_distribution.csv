@@ -1,0 +1,7 @@
+failure_type,records
+none,9652
+thermal_dissipation_failure,115
+power_delivery_failure,91
+overload_stress_failure,78
+component_wear_failure,46
+random_node_failure,18

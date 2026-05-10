@@ -1,0 +1,12 @@
+{
+  "input": {
+    "ambient_cabinet_temp_k": 298.1,
+    "processing_unit_temp_k": 308.6,
+    "cooling_fan_speed_rpm": 1400,
+    "mechanical_load_nm": 46.3,
+    "component_wear_min": 160,
+    "Type": "H"
+  },
+  "failure_prediction": 0,
+  "failure_probability": 0.2221
+}
