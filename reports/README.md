@@ -2,7 +2,7 @@
 
 Notebook-generated visualizations are saved in `reports/figures/`.
 
-Recommended visuals for GitHub screenshots:
+Key generated visuals:
 
 - Model comparison metrics
 - Confusion matrix

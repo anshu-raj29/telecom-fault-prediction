@@ -17,9 +17,9 @@ This project connects predictive analytics with telecom concerns such as:
 - Failure-type intelligence for preventive dispatch
 - Root-cause explainability for operations teams
 
-## Nokia-Relevant Framing
+## Telecom Infrastructure Context
 
-The project is aligned with telecom infrastructure analytics, network assurance, and intelligent operations themes. It is not affiliated with Nokia and does not use Nokia proprietary data, branding, or systems. It demonstrates practical skills relevant to telecom AI, reliability engineering, and infrastructure intelligence.
+The project is aligned with telecom infrastructure analytics, network assurance, and intelligent operations themes. It uses public predictive maintenance data as a proxy for telecom reliability telemetry and does not depend on proprietary network data.
 
 ## Project Structure
 

@@ -74,7 +74,3 @@ Output:
   "failure_probability": 0.2221
 }
 ```
-
-## Recruiter View
-
-The repository now contains the full notebook, trained models, generated plots, and result tables. Recruiters can open the notebook on GitHub to see executed cells, or inspect the `reports/` directory for standalone result evidence.
